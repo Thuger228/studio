@@ -177,7 +177,7 @@ const Index = () => {
     {
       name: t('price_mixing_name'),
       prefix: t('price_from'),
-      price: '200 pln',
+      price: '300 pln',
       unit: '/song',
       features: [
         t('price_mixing_feature1'),
